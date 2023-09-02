@@ -12,3 +12,14 @@
 * Chrome's V8 is written in C++ and used in Chrome browser
 * By embedding V8 into your own C++ application (example: chrome), you can write C++ code that gets executed when user writes JavaScript code
 * Since C++ is great for lower level operations like file-handling, database connection and network operations, by embedding V8 into your own C++ program (example: Node.js) you have all the power to add all of that functionality in JavaScript
+
+#### What can we build using Node.js?
+
+* Traditional Websites
+* Backend services like API's
+* Real-time applications
+* Streaming services
+* CLI Tools
+* Multiplayer Games
+
+#### Note: While using Node.js for web development, keep in mind that a browser might not have all the functionalities of Node.js (example: file system) and similarly Node.js does not provide browser api's (example: document or window)
