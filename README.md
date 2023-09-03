@@ -23,3 +23,13 @@
 * Multiplayer Games
 
 #### Note: While using Node.js for web development, keep in mind that a browser might not have all the functionalities of Node.js (example: file system) and similarly Node.js does not provide browser api's (example: document or window)
+
+### Modules
+
+#### A module is an encapsulated and reusable chunk of code that has its own context in Node.js, each file is treated as a seperate module
+
+* Local Modules - Modules that we create in our application
+* Built-In Modules - Modules that Node.js ships with out of the box
+* Third Party Modules - Modules written by other developers that we can use in our application
+
+#### Note: CommonJS is a standard that states how a module should be structured and shared
