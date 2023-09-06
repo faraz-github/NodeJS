@@ -33,3 +33,11 @@
 * Third Party Modules - Modules written by other developers that we can use in our application
 
 #### Note: CommonJS is a standard that states how a module should be structured and shared
+
+### Important and frequently used Built-In Modules
+
+* path
+* events
+* fs
+* stream
+* http

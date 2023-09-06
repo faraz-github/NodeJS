@@ -1,3 +1,7 @@
+const data = require("./data.json");
+// By default nodejs will parse json data into javascript object
+console.log(data);
+
 const math = require("./math");
 
 // const {add, subtract} = math;
